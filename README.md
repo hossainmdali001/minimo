@@ -1,2 +1,2 @@
 # minimo
-psd to html
+https://hossainmdali001.github.io/minimo/
